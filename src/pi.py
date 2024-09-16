@@ -18,5 +18,5 @@ def riemman(funcion,a,b,div):
 
 
 #Imprimo el resultado que quiero
-print(riemman(funcionpi,0,1,10))
+print(riemman(funcionpi,0,1,30))
 
