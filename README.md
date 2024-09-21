@@ -1,5 +1,5 @@
 # PiRiemman
-Estimación de pi mediante integración por el método de sumas de Riemman.
+Estimación de pi (exactitud limitada por el poder computacional) mediante integración por el método de sumas de Riemman.
 
 
 ## Método de estimación

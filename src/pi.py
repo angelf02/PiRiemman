@@ -18,5 +18,5 @@ def riemman(funcion,a,b,div):
 
 
 #Imprimo el resultado que quiero
-print('Pi se estima a: '+str(riemman(funcionpi,0,1,30)))
+print('Pi se estima a: '+str(riemman(funcionpi,0,1,10000)))
 
